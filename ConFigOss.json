@@ -3,47 +3,40 @@
   "panels": {
     "mihomo": [
       {
-        "url": "http://aeccapigjs.lol",
-        "description": "主面板 1"
+        "url": "https://aeccapigjs.lol",
+        "description": "主面板"
       },
       {
-        "url": "http://66.meituanssp.xyz",
-        "description": "主面板 2"
+        "url": "https://66.meituanssp.xyz",
+        "description": "备用1"
       },
       {
-        "url": "http://63.aeccgisew.xyz",
-        "description": "主面板 3"
+        "url": "https://63.aeccgisew.xyz",
+        "description": "备用2"
       },
       {
-        "url": "http://apifrrgrtdd.lol",
-        "description": "主面板 4"
+        "url": "https://apifrrgrtdd.lol",
+        "description": "备用3"
       },
       {
-        "url": "http://api-gyuyjioh.xyz",
-        "description": "主面板 5"
+        "url": "https://api-gyuyjioh.xyz",
+        "description": "备用4"
       },
       {
-        "url": "http://apigyuyjioh.xyz",
-        "description": "主面板 6"
+        "url": "https://apigyuyjioh.xyz",
+        "description": "备用5"
       },
       {
-        "url": "http://f.tfrrd.fdrdt.g.odfhhgrrrrrrrr.xyz",
-        "description": "主面板 7"
+        "url": "https://f.tfrrd.fdrdt.g.odfhhgrrrrrrrr.xyz",
+        "description": "备用6"
       }
     ]
   },
   "onlineSupport": [
     {
-      "url": "http://aeccapigjs.lol",
-      "description": "在线客服",
-      "apiBaseUrl": "http://aeccapigjs.lol",
-      "wsBaseUrl": "ws://aeccapigjs.lol"
+      "url": "https://t.me/nodewvpn",
+      "description": "Telegram 客服"
     }
   ],
-  "proxy": [],
-  "ws": [],
-  "update": [],
-  "subscription": {
-    "urls": []
-  }
+  "proxy": []
 }
