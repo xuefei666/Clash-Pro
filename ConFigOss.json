@@ -1,1 +1,49 @@
-ewogICJ0eXBlIjogInYyYm9hcmQiLAogICJBdXRoZW50aWNhdGlvbiI6ICJTaGFkb3dyb2NrZXQiLAogICJob3N0X3NvdXJjZSI6ICJodHRwczovL25vZGV3Lm1lIiwKICAiQ3VzdG9tZXIiOiAiaHR0cHM6Ly90Lm1lL3ZwbjAzIiwKICAiY3Jpc3AiOiAiIiwKICAiSW52aXRlTGluayI6ICJodHRwczovL25vZGV3Lm1lLyMvcmVnaXN0ZXI/Y29kZT0iLAogICJVcGRhdGVVcmwiOiAiIiwKICAiTW9yZSI6ICIiLAogICJub3RpY2UiOiAxLAogICJleGNoYW5nZSI6IDEsCiAgIlRyYWZmaWNEZXRhaWxzIjogMCwKICAiT25saW5lVGlja2V0IjogMSwKICAiS25vd2xlZGdlQ2VudGVyIjogMCwKICAiU3RvcmUiOiAxLAogICJyZW5ld2FsVHJhZmZpY05vdGljZSI6IDAsCiAgImhvc3RzIjogWwogICAgImh0dHBzOi8vYWVjY2FwaWdqcy5sb2wvYXBpL3YxIiwKICAgICJodHRwczovL2FwaWZycmdydGRkLmxvbC9hcGkvdjEiLAogICAgImh0dHBzOi8vYXBpLWd5dXlqaW9oLnh5ei9hcGkvdjEiLAogICAgImh0dHBzOi8vYXBpZ3l1eWppb2gueHl6L2FwaS92MSIsCiAgICAiaHR0cHM6Ly9mLnRmcnJkLmZkcmR0Lmcub2RmaGhncnJycnJycnIueHl6L2FwaS92MSIKICBdLAogICJDYXJvdXNlbCI6IFtdLAogICJjYW1wdXNIb3N0cyI6IFtdCn0=
+{
+  "panelType": "xboard",
+  "panels": {
+    "mihomo": [
+      {
+        "url": "http://aeccapigjs.lol",
+        "description": "主面板 1"
+      },
+      {
+        "url": "http://66.meituanssp.xyz",
+        "description": "主面板 2"
+      },
+      {
+        "url": "http://63.aeccgisew.xyz",
+        "description": "主面板 3"
+      },
+      {
+        "url": "http://apifrrgrtdd.lol",
+        "description": "主面板 4"
+      },
+      {
+        "url": "http://api-gyuyjioh.xyz",
+        "description": "主面板 5"
+      },
+      {
+        "url": "http://apigyuyjioh.xyz",
+        "description": "主面板 6"
+      },
+      {
+        "url": "http://f.tfrrd.fdrdt.g.odfhhgrrrrrrrr.xyz",
+        "description": "主面板 7"
+      }
+    ]
+  },
+  "onlineSupport": [
+    {
+      "url": "http://aeccapigjs.lol",
+      "description": "在线客服",
+      "apiBaseUrl": "http://aeccapigjs.lol",
+      "wsBaseUrl": "ws://aeccapigjs.lol"
+    }
+  ],
+  "proxy": [],
+  "ws": [],
+  "update": [],
+  "subscription": {
+    "urls": []
+  }
+}
